@@ -2,6 +2,9 @@
 <h3 align="center">A passionate software developer from TR</h3>
 
 - 📫 How to reach me **zeynepcol22@gmail.com**
+- 📖 I'm 4th class Computer Engineering Student at ATU
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
