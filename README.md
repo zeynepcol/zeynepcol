@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeynep Çöl</h1>
+<h1 align="center">Hi 👋, I'm Zeynep ÇÖL</h1>
 <h3 align="center">A passionate software developer from TR</h3>
 
 - 📫 How to reach me **zeynepcol22@gmail.com**
