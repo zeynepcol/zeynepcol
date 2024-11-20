@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep ÇÖL</h1>
-<h3 align="center">A passionate software developer from TR</h3>
+<h3 align="center">A full stack software developer from TR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepcol&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepcol" /> </p>
 
