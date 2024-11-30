@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **zeynepcol22@gmail.com**
-- 📖 I'm 4th class Computer Engineering Student
+- 📖 I'm 4th class **Computer Engineering** Student
 
 
 <h3 align="left">Connect with me:</h3>
