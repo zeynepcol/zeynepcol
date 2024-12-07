@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeynep ÇÖL</h1>
 <h3 align="center">A full stack software developer from TR</h3>
 
-
-
 - 📫 How to reach me **zeynepcol22@gmail.com**
 - 📖 I'm 4th class **Computer Engineering** Student
-
+- ⚡ Interested in **Web and Mobile development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
