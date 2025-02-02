@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep ÇÖL</h1>
-<h3 align="center">A full stack software developer from TR</h3>
+<h3 align="center">I'm a computer engineer from TR</h3>
 
 - 📫 How to reach me **zeynepcol22@gmail.com**
 - 📖 I'm 4th class **Computer Engineering** Student
