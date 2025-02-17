@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **zeynepcol22@gmail.com**
 - 📖 I'm 4th class **Computer Engineering** Student
-- ⚡ Interested in **Web and Mobile development**
+- ⚡ Interested in **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
